@@ -1,5 +1,5 @@
 ---
-description: Description1
+description: Descriptio
 ---
 
 # Welcome to Meshnet documentation!
